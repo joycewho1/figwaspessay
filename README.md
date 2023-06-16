@@ -74,6 +74,12 @@ In addition to temperature, ozone pollution is a rising threat to fig wasps in S
 
 ## Habitat Fragmentation
 Beyond climatic changes, habitat fragmentation is also a concern to fig wasps in Singapore. Fragmentation will continue as Singapore develops, and projects like the upcoming Cross Island MRT line passing through the Central Catchment Nature Reserve may have uncertain ecological effects.[^28] Studies reveal that highly fragmented forests have a lower proportion of pollinator wasps compared to non-pollinator wasps, wherein the latter may become pests to the fig tree.[^29] Further, fragmentation contextualised in Singapore’s urban cityscape increases the risk of road mortality, which has been implicated in pollinating insects’ deaths worldwide.[^30] Fig wasps can be responsible for dispersing pollen up to 160km from the source tree, and flying over increasingly fragmented and busy urban traffic exacerbates the difficulty and danger of pollination journeys.[^31]
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/7/7c/Cross_Island_Line_final_and_alternate_routes_across_Central_Catchment.png"
+       title="Cross Island Line final and alternate routes across Central Catchment" 
+       attribution="Seloloving"
+       license="CC BY-SA 4.0 ">
+       
 
 ## Everything, Everywhere, All at Once
 Further, the synergistic culmination of multiple pressures is likely to present an even greater challenge than each of these threats in isolation. On top of fragmentation, increased temperatures and ozone pollution also make it more difficult for wasps to travel long distances to the trees they pollinate and navigate their way to the syconium.[^32] Indeed, other air pollutants not yet studied are likely to have similar detrimental effects to fig wasp fitness.[^33] Together, these factors will escalate the difficulty of successful pollination and thus reproduction of *P. quadraticeps*.
