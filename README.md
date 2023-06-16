@@ -16,8 +16,9 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span ei
        license="CC BY-NC">
 
 *Ficus religiosa*, reliant on *Platyscapa quadraticeps*, possesses significant cultural value in Singapore and across Asia. Moreover, valued for its nutritional qualities, figs are not only a popular snack but also used in traditional Chinese medicine prevalent in Singapore.[^8] Dried figs are a common ingredient in respiratory related tonics, and fig bark and leaves can be used for wound treatment.[^9] *Platyscapa quadraticeps* thus plays a hidden but crucial part in maintaining *Ficus religiosa*’s important cultural roles.
-<param ve-image manifest=”https://iiif.archivelab.org/iiif/<gardensbulletins36unse>/manifest.json”
-   title="Exercept from ‘On Chinese Medicine: Drugs of Chinese Pharmacies in Malaya’, describing the medicinal properties of figs"
+<param ve-image 
+   manifest="https://iiif.archivelab.org/iiif/<gardensbulletins36unse>/manifest.json"
+   title="Excerpt from ‘On Chinese Medicine: Drugs of Chinese Pharmacies in Malaya’, describing the medicinal properties of figs"
    attribution="David Hooper, not in copyright, from the Biodiversity Heritage Library"
    label="Not in copyright, from the Biodiversity Heritage Library"
    seq="64""65">
