@@ -39,7 +39,15 @@ Urban green spaces (UGS) in Singapore cover over 47% of the city, reflecting its
        description="Example of an urban green space that Platyscapa quadraticeps inhabits in Singapore, within and overlooking the CBD area" 
        attribution="Joyce Hu">
 
-The diversity of species inhabiting the park reflects how the Singaporean public perceives and uses UGS. UGS provide cultural ecosystem services by facilitating recreation (e.g., birdwatching, hiking) and providing a respite from city life.[^16] Indeed, the presence of the heritage Bodhi tree provides a meditative space that the public can enjoy.[^17] However, while the Bodhi tree in the park may be valued, the fig wasps silently serving this cultural good are often undervalued and are likely viewed as a nuisance based on prevailing negative sentiments surrounding wasps. Any lack in addressing threats to the fig wasp’s survivability, however, will also impact the fig tree’s future. 
+The diversity of species inhabiting the park reflects how the Singaporean public perceives and uses UGS. UGS provide cultural ecosystem services by facilitating recreation (e.g., birdwatching, hiking) and providing a respite from city life.[^16] Indeed, the presence of the heritage Bodhi tree provides a meditative space that the public can enjoy.[^17] However, while the Bodhi tree in the park may be valued, the fig wasps silently serving this cultural good are often undervalued and are likely viewed as a nuisance based on prevailing negative sentiments surrounding wasps. Any lack in addressing threats to the fig wasp’s survivability, however, will also impact the fig tree’s future.
+<param ve-image 
+       url="media/HT 2001-18 Ficus religiosa 1.jpg"
+       title="Heritage Bodhi Tree in Pearl's Hill City Park" 
+       attribution="NParks, used with permission">
+<param ve-image 
+       url="media/HT 2001-18 Ficus religiosa 2.jpg"
+       title="Heritage Bodhi Tree in Pearl's Hill City Park" 
+       attribution="NParks, used with permission">
 
 ## From Flight to Plight: Future Challenges to *Platyscapa quadraticeps*
 As the climate crisis worsens alongside continual urban development and other escalating anthropogenic environmental pressures, the quality of Singapore’s UGS is at risk. This poses challenges to *P. quadraticeps*, with cascading effects including the potential for a breakdown of the mutualistic relationship between the wasp and tree, which may have drastic effects for UGS that rely on *F. religiosa* as a keystone species.[^18] 
