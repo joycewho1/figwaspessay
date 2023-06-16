@@ -1,7 +1,7 @@
 <param ve-config 
        title="The Fig Wasp: Fundamental Yet Forgotten"
        author="Joyce Hu"
-       banner=""
+       banner="https://inaturalist-open-data.s3.amazonaws.com/photos/230682292/large.jpeg"
        layout="vertical"> 
 
 Although wasps are commonly perceived as stinging menaces, many, including the fig wasp, not only play important roles in various ecosystems, but also create value for humans. Notably, the fig wasp *Platyscapa quadraticeps* is the sole pollinator of the fig tree *Ficus religiosa*, which is of significant cultural and religious value in Singapore.[^1] The fig wasp’s critical value also contributes to a broader conversation on the often overlooked or misunderstood roles of non-native species in Singapore. It is easy to conflate <span eid="Q1065449">non-native species</span> with <span eid="Q183368">invasive species</span>, despite only the latter being harmful to ecosystems. Instead, many non-native species like *Platyscapa quadraticeps* function as cornerstones in Singapore’s ecosystems, including urban green spaces which themselves are more manicured and distant from the idea of “pure nature” yet also are the most common and preferred form of natural interaction for Singaporeans.[^2] 
