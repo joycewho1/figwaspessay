@@ -8,6 +8,12 @@ Although wasps are commonly perceived as stinging menaces, many, including the f
 
 ## Of Crucial Ecological and Cultural Significance
 As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span eid="Q186368">mutualistic</span> relationship with *Ficus religiosa*.[^3] The fig of *F. religiosa* is monoecious, meaning the syconium (hollow, fleshy receptacle that develops into fruit) is functionally male and female.[^4] When the almost ripe fig is in the male phase, impregnated female wasps will lay their eggs and pollinate the syconium through swift foreleg motions.[^5] *P. quadraticeps* has an adult lifespan of less than two days, within which time they must pollinate the fig ovaries where wasp larvae are raised.[^6] In the wasp’s scientific name, *‘scapa’*, from Latin meaning ‘to drop’, likely references pollen deposition while *‘quad’* hints at the wasp’s foreleg motions, and the root *‘-cep-’*, meaning to take or receive, alludes to the wasp’s mutualistic relationship with the fig tree.[^7]
+<param ve-image 
+       url="https://inaturalist-open-data.s3.amazonaws.com/photos/230682305/large.jpeg"
+       title="*Platyscapa quadraticeps* inside *Ficus religiosa*" 
+       description="Sighted at Kalihi - Palama, Honolulu."
+       attribution="James Bailey, from iNaturalist"
+       license="CC BY-NC">
 
 *Ficus religiosa*, reliant on *Platyscapa quadraticeps*, possesses significant cultural value in Singapore and across Asia. Moreover, valued for its nutritional qualities, figs are not only a popular snack but also used in traditional Chinese medicine prevalent in Singapore.[^8] Dried figs are a common ingredient in respiratory related tonics, and fig bark and leaves can be used for wound treatment.[^9] *Platyscapa quadraticeps* thus plays a hidden but crucial part in maintaining *Ficus religiosa*’s important cultural roles.
 
