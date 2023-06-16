@@ -66,8 +66,8 @@ Increasing ambient air temperatures in UGS are a threat to fig wasp fitness in S
 In addition to temperature, ozone pollution is a rising threat to fig wasps in Singapore. Ozone is a key component of ‘smog’, and in recent years, certain episodes of harmful air quality in Singapore have been attributed to ozone-induced smog, not haze, contrary to common assumptions.[^25] In a study of a fig wasp in the *Platyscapa* genus in the sub-tropical French Mediterranean, ozone induced abnormal <span eid="Q33596">motility</span> at even low concentrations, impacting pollinator behaviour and success.[^26] There are suggestions that ozone episodes in the French Mediterranean may already be affecting fig wasp and fig tree mutualism, as fig wasp females search for receptive figs at midday which coincides with maximum ozone concentrations, hindering wasp motility and reproductive success.[^27] Worsening ozone pollution in Singapore is thus likely to implicate *P. quadraticeps*’ motility. 
 <param ve-image 
        url="https://www-ncbi-nlm-nih-gov.libproxy1.nus.edu.sg/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8619363_insects-12-00995-g002.jpg"
-       title="Probability of fig wasp motility spontaneous or independent movement over time at different ozone concentrations" 
-       description="Crosses indicate points of censored data. Different letters indicate significant differences p < 0.05 in the probability of motility between ozone regimes based on pairwise log-rank tests"
+       title="Probability of fig wasp motility (spontaneous or independent movement) over time at different ozone concentrations" 
+       description="Crosses indicate points of censored data. Different letters indicate significant differences (p < 0.05) in the probability of motility between ozone regimes based on pairwise log-rank tests"
        attribution="Maryse Vanderplanck et al., ‘Ozone Induces Distress Behaviors in Fig Wasps with a Reduced Chance of Recovery’, Insects 12, no. 11 (5 November 2021): 995, https://doi.org/10.3390/insects12110995"
        license="CC BY-4.0"
        fit="contain">
@@ -80,7 +80,6 @@ Beyond climatic changes, habitat fragmentation is also a concern to fig wasps in
        attribution="Seloloving"
        license="CC BY-SA 4.0 ">
        
-
 ## Everything, Everywhere, All at Once
 Further, the synergistic culmination of multiple pressures is likely to present an even greater challenge than each of these threats in isolation. On top of fragmentation, increased temperatures and ozone pollution also make it more difficult for wasps to travel long distances to the trees they pollinate and navigate their way to the syconium.[^32] Indeed, other air pollutants not yet studied are likely to have similar detrimental effects to fig wasp fitness.[^33] Together, these factors will escalate the difficulty of successful pollination and thus reproduction of *P. quadraticeps*.
 
@@ -89,6 +88,8 @@ Reduced reproductive success may contribute to a breakdown in the mutualistic re
 
 ## The Future of Fig Wasps in Singapore
 Therefore, while the existence of Singapore’s UGS is not under threat, and there are plans to continue developing UGS, the quality of these spaces faces inevitable challenges amidst anthropogenic climate change and continual urban development, both of which can only be mitigated within broader policies.[^40] To combat urban fragmentation’s specific impact on fig wasps, alongside temperature and air pollution that may decrease the wasp’s ability to travel long distances, it may be helpful to consider intentional planting of F. religiosa in urban spaces that are not parks (e.g., on the roadside) which may expand the accessibility of trees to fig wasps that prevents the need to travel long distances exposed to increasingly harsh urban conditions.[^41] Plans to expand eco-links may also alleviate the effects of fragmentation and road mortality by connecting isolated UGS to each other and other habitats.[^42] However, these bridges are a mitigation strategy with indeterminate success rates for different species on different time scales, with uncertain benefits to *P. quadraticeps*.[^43] 
+<param ve-video id="c18vo5Ybdio" title="Eco-Link@BKE | Highlights">
+
 
 Ultimately, any breakdown in the relationship between *F. religiosa* and *P. quadraticeps* has significant ecological implications for a range of organisms. [^44] Efforts to mitigate the impending challenges to the fig wasp are thus oriented towards an ecosystem-based outlook grounded in addressing broader pollution concerns and creating ecological bridges and links that may combat fragmentation. This will ease *Platyscapa quadraticeps*’ plight against such changes to uphold its mutualistic relationship with *Ficus religiosa*, which is a cornerstone of Singapore’s UGS. However, it is important to be mindful that simply creating urban green spaces is insufficient to mitigate the effects of climate change or pollution on different species and the habitats they rely on, and the future of often forgotten non-native species is at stake in both our ecological and cultural futures.
 
