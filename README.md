@@ -1,7 +1,7 @@
 <param ve-config 
        title="The Fig Wasp: Fundamental Yet Forgotten"
        author="Joyce Hu"
-       banner="https://inaturalist-open-data.s3.amazonaws.com/photos/230682305/large.jpeg"
+       banner=""
        layout="vertical"> 
 
 Although wasps are commonly perceived as stinging menaces, many, including the fig wasp, not only play important roles in various ecosystems, but also create value for humans. Notably, the fig wasp *Platyscapa quadraticeps* is the sole pollinator of the fig tree *Ficus religiosa*, which is of significant cultural and religious value in Singapore.[^1] The fig wasp’s critical value also contributes to a broader conversation on the often overlooked or misunderstood roles of non-native species in Singapore. It is easy to conflate <span eid="Q1065449">non-native species</span> with <span eid="Q183368">invasive species</span>, despite only the latter being harmful to ecosystems. Instead, many non-native species like *Platyscapa quadraticeps* function as cornerstones in Singapore’s ecosystems, including urban green spaces which themselves are more manicured and distant from the idea of “pure nature” yet also are the most common and preferred form of natural interaction for Singaporeans.[^2] 
@@ -16,6 +16,11 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span ei
        license="CC BY-NC">
 
 *Ficus religiosa*, reliant on *Platyscapa quadraticeps*, possesses significant cultural value in Singapore and across Asia. Moreover, valued for its nutritional qualities, figs are not only a popular snack but also used in traditional Chinese medicine prevalent in Singapore.[^8] Dried figs are a common ingredient in respiratory related tonics, and fig bark and leaves can be used for wound treatment.[^9] *Platyscapa quadraticeps* thus plays a hidden but crucial part in maintaining *Ficus religiosa*’s important cultural roles.
+<param ve-image manifest=”https://iiif.archivelab.org/iiif/<gardensbulletins36unse>/manifest.json”
+   title="Exercept from ‘On Chinese Medicine: Drugs of Chinese Pharmacies in Malaya’, describing the medicinal properties of figs"
+   attribution="David Hooper, not in copyright, from the Biodiversity Heritage Library"
+   label="Not in copyright, from the Biodiversity Heritage Library"
+   seq="64""65">
 
 ## Situating Platyscapa quadraticeps in Singapore’s Dense Cityscape 
 *Platyscapa quadraticeps* exhibits wide dispersal patterns, and the population in Singapore is likely part of a continuous regional population spanning temperate and tropical Asia.[^10] *Platyscapa quadraticeps* follows the spontaneous distribution of *F. religiosa* in Singapore across both primary and secondary forests like Bukit Timah Nature Reserve, as well as in the city’s urban green spaces – from the Japanese Garden in Jurong East to Duxton Plain Park in the CBD to Tanah Merah MRT station.[^11]
