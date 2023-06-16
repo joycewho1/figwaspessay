@@ -16,6 +16,13 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal mutualis
 
 Urban green spaces (UGS) in Singapore cover over 47% of the city, reflecting its “city in nature” (originally “garden city” and then “city in a garden”) moniker.[^12] UGS are integrated into Singapore’s hot and air, light, and noise-polluted landscape, and are affected by continuous urban development.[^13] Pearl’s Hill City Park’s (PHCP) ecosystem exemplifies that of a typical UGS in Singapore. Located near Outram Park and Chinatown, PHCP was the site of a gambier plantation and hospital in the 1800s before becoming a public park.[^14] Today, PHCP is dominated by non-native birds that are omnivorous generalists such as the Javan Myna (*Acridotheres javanicus*) and Eurasian Tree Sparrow (*Passer montanus*). The park also features a Bodhi tree that has been designated as a heritage tree, meaning *Platyscapa quadraticeps* also inhabits the park.[^15] 
 
+The diversity of species inhabiting the park reflects how the Singaporean public perceives and uses UGS. UGS provide cultural ecosystem services by facilitating recreation (e.g., birdwatching, hiking) and providing a respite from city life.[^16] Indeed, the presence of the heritage Bodhi tree provides a meditative space that the public can enjoy.[^17] However, while the Bodhi tree in the park may be valued, the fig wasps silently serving this cultural good are often undervalued and are likely viewed as a nuisance based on prevailing negative sentiments surrounding wasps. Any lack in addressing threats to the fig wasp’s survivability, however, will also impact the fig tree’s future. 
+
+## From Flight to Plight: Future Challenges to *Platyscapa quadraticeps*
+As the climate crisis worsens alongside continual urban development and other escalating anthropogenic environmental pressures, the quality of Singapore’s UGS is at risk. This poses challenges to *P. quadraticeps*, with cascading effects including the potential for a breakdown of the mutualistic relationship between the wasp and tree, which may have drastic effects for UGS that rely on *F. religiosa* as a keystone species.[^18] (Ng et al., 2011; NParks, 2023). 
+
+## Increasing Temperatures
+
 # References
 [^1]: Nanthinee Jeevanandam and Richard T. Corlett, ‘Fig Wasp Dispersal in Urban Singapore’, *Raffles Bulletin of Zoology* 61, no. 1 (28 February 2013): 343–47.
 [^2]: Joanne Yu Ting Khew, Makoto Yokohari, and Toshinori Tanaka, ‘Public Perceptions of Nature and Landscape Preference in Singapore’, *Human Ecology* 42, no. 6 (December 2014): 979–88, https://doi.org/10.1007/s10745-014-9709-x.
@@ -32,3 +39,6 @@ Urban green spaces (UGS) in Singapore cover over 47% of the city, reflecting its
 [^13]: Ng et al., Singapore Biodiversity: An Encyclopedia of the Natural Environment and Sustainable Development.
 [^14]: ‘Pearl’s Hill’, Singapore Lost & Filed (blog), 7 February 2015, https://lostnfiledsg.wordpress.com/2015/02/08/pearls-hill/; C Tang, ‘Pearl’s Hill ’, Singapore Infopedia, 14 December 2004, https://eresources.nlb.gov.sg/infopedia/articles/SIP_116_2004-12-14.html.
 [^15]: ‘Heritage Trees’, NParks, 6 December 2022, https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees.
+[^16]: Ng et al., Singapore Biodiversity: An Encyclopedia of the Natural Environment and Sustainable Development; Joan C. Henderson, ‘Urban Parks and Green Spaces in Singapore’, *Managing Leisure* 18, no. 3 (July 2013): 213–25, https://doi.org/10.1080/13606719.2013.796181.
+[^17]: D.R. Richards et al., ‘Rapid Urbanisation in Singapore Causes a Shift from Local Provisioning and Regulating to Cultural Ecosystem Services Use’, *Ecosystem Services* 46 (December 2020): 101193, https://doi.org/10.1016/j.ecoser.2020.101193.
+[^18]: Ng et al., Singapore Biodiversity: An Encyclopedia of the Natural Environment and Sustainable Development; ‘Ficus Religiosa L.’.
