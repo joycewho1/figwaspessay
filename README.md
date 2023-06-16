@@ -21,7 +21,7 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span ei
    title="Excerpt from ‘On Chinese Medicine: Drugs of Chinese Pharmacies in Malaya’, describing the medicinal properties of figs"
    attribution="David Hooper, not in copyright, from the Biodiversity Heritage Library"
    label="Not in copyright, from the Biodiversity Heritage Library"
-   seq="64-65">
+   seq="64">
 
 ## Situating Platyscapa quadraticeps in Singapore’s Dense Cityscape 
 *Platyscapa quadraticeps* exhibits wide dispersal patterns, and the population in Singapore is likely part of a continuous regional population spanning temperate and tropical Asia.[^10] *Platyscapa quadraticeps* follows the spontaneous distribution of *F. religiosa* in Singapore across both primary and secondary forests like Bukit Timah Nature Reserve, as well as in the city’s urban green spaces – from the Japanese Garden in Jurong East to Duxton Plain Park in the CBD to Tanah Merah MRT station.[^11]
