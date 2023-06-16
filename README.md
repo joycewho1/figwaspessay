@@ -67,7 +67,7 @@ In addition to temperature, ozone pollution is a rising threat to fig wasps in S
 <param ve-image 
        url="https://www-ncbi-nlm-nih-gov.libproxy1.nus.edu.sg/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8619363_insects-12-00995-g002.jpg"
        title="Probability of fig wasp motility spontaneous or independent movement over time at different ozone concentrations" 
-       description="Crosses indicate points of censored data. Different letters indicate significant differences (p < 0.05) in the probability of motility between ozone regimes based on pairwise log-rank tests"
+       description="Crosses indicate points of censored data. Different letters indicate significant differences p < 0.05 in the probability of motility between ozone regimes based on pairwise log-rank tests"
        attribution="Maryse Vanderplanck et al., ‘Ozone Induces Distress Behaviors in Fig Wasps with a Reduced Chance of Recovery’, Insects 12, no. 11 (5 November 2021): 995, https://doi.org/10.3390/insects12110995"
        license="CC BY-4.0"
        fit="contain">
