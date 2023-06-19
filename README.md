@@ -33,7 +33,7 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span ei
 *Platyscapa quadraticeps* exhibits wide dispersal patterns, and the population in Singapore is likely part of a continuous regional population spanning temperate and tropical Asia.[^10] *Platyscapa quadraticeps* follows the spontaneous distribution of *F. religiosa* in Singapore across both primary and secondary forests like Bukit Timah Nature Reserve, as well as in the city’s urban green spaces – from the Japanese Garden in Jurong East to Duxton Plain Park in the CBD to Tanah Merah MRT station.[^11]
 <param ve-map center="Q334" zoom="11.5"
        show-labels>
-<param ve-map-layer geojson url="/media/map (3).geojson" title="*Ficus religiosa* sightings from iNaturalist where *Platyscapa quadraticeps* are found with Heritage Trees indicated "> 
+<param ve-map-layer geojson url="/media/map (3).geojson" title="*Ficus religiosa* sightings from iNaturalist where *Platyscapa quadraticeps* are found with Heritage Trees circled "> 
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bodhi_Tree_in_Israel_1a.jpg"
        circle="true"
