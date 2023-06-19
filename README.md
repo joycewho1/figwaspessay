@@ -121,6 +121,16 @@ Further, the synergistic culmination of multiple pressures is likely to present 
 
 ## The Possibility of a Relationship Breakdown
 Reduced reproductive success may contribute to a breakdown in the mutualistic relationship between *P. quadraticeps* and *F. religiosa*. The strong mutualistic relationship between the fig wasp and fig tree has been evolutionary solidified, which includes safeguards to prevent ‘cheating’ in the relationship.[^34] Indeed, fig wasps that failed to pollinate the fig tree *Ficus perforate* experienced a reduced <span eid="Q331710">fitness</span> of 0.59 compared to successful wasps.[^35] Breakdown is prevented in the short-term as an unpollinated syconium can remain receptive for long periods; however, one study found that older figs produced fewer seeds and fig wasp offspring when eventually pollinated.[^36] This leads to a slow reduction in the fig wasp population, eroding fitness and activity.[^37] It has also been noted that fig wasps tend to experience faster speciation than fig trees, which may lead to decoupled <span eid="Q39350">speciation</span> dynamics driven by these anthropogenic pressures.[^38] The species-specific nature of the relationship between *P. quadraticeps* and *F. religiosa* thus also implicates the latter’s outlook, despite its ability to thrive in urban Singapore. This then has cascading effects on organisms that rely on *F. religiosa* as a keystone species given its yearlong fruit production, including native birds like the Jambu Fruit Dove (*Ptilinopus jambu*) and Yellow-vented Bulbul (*Pycnonotus goiavier*).[^39] 
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/9/92/0A2A4256_Jambu_Fruit-Dove.jpg"
+       title="Jambu Fruit Dove" 
+       attribution="JJ Harrison"
+       license="CC BY-SA 3.0 ">
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/2/22/Yellow-vented_Bulbul_%28Pycnonotus_goiavier%29_-_Flickr_-_Lip_Kee_%287%29.jpg"
+       title="Yellow-vented Bulbul" 
+       attribution="Lip Kee from Singapore, Republic of Singapore"
+       license="CC BY-SA 2.0 ">
 
 ## The Future of Fig Wasps in Singapore
 Therefore, while the existence of Singapore’s UGS is not under threat, and there are plans to continue developing UGS, the quality of these spaces faces inevitable challenges amidst anthropogenic climate change and continual urban development, both of which can only be mitigated within broader policies.[^40] To combat urban fragmentation’s specific impact on fig wasps, alongside temperature and air pollution that may decrease the wasp’s ability to travel long distances, it may be helpful to consider intentional planting of F. religiosa in urban spaces that are not parks (e.g., on the roadside) which may expand the accessibility of trees to fig wasps that prevents the need to travel long distances exposed to increasingly harsh urban conditions.[^41] Plans to expand eco-links may also alleviate the effects of fragmentation and road mortality by connecting isolated UGS to each other and other habitats.[^42] However, these bridges are a mitigation strategy with indeterminate success rates for different species on different time scales, with uncertain benefits to *P. quadraticeps*.[^43] 
