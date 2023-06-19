@@ -38,19 +38,19 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span ei
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bodhi_Tree_in_Israel_1a.jpg"
        circle="true"
        coords="1.2815, 103.8415"
-       size="10, 10"
+       size="6, 6"
        >
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bodhi_Tree_in_Israel_1a.jpg"
        circle="true"
        coords="1.2847052, 103.839924"
-       size="10, 10"
+       size="7, 7"
        >
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bodhi_Tree_in_Israel_1a.jpg"
        circle="true"
        coords="1.3245, 103.8606"
-       size="10, 10"
+       size="8, 8"
        >
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bodhi_Tree_in_Israel_1a.jpg"
