@@ -38,31 +38,31 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span ei
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bodhi_Tree_in_Israel_1a.jpg"
        circle="true"
        coords="1.2815, 103.8415"
-       size="6, 6"
+       size="5, 5"
        >
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bodhi_Tree_in_Israel_1a.jpg"
        circle="true"
        coords="1.2847052, 103.839924"
-       size="7, 7"
+       size="5, 5"
        >
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bodhi_Tree_in_Israel_1a.jpg"
        circle="true"
        coords="1.3245, 103.8606"
-       size="8, 8"
+       size="5, 5"
        >
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bodhi_Tree_in_Israel_1a.jpg"
        circle="true"
        coords="1.2817620, 103.7966850"
-       size="10, 10"
+       size="5, 5"
        >
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bodhi_Tree_in_Israel_1a.jpg"
        circle="true"
        coords="1.2817620, 103.7966850"
-       size="10, 10"
+       size="5, 5"
        >
 
 Urban green spaces (UGS) in Singapore cover over 47% of the city, reflecting its “city in nature” (originally “garden city” and then “city in a garden”) moniker.[^12] UGS are integrated into Singapore’s hot and air, light, and noise-polluted landscape, and are affected by continuous urban development.[^13] Pearl’s Hill City Park’s (PHCP) ecosystem exemplifies that of a typical UGS in Singapore. Located near Outram Park and Chinatown, PHCP was the site of a gambier plantation and hospital in the 1800s before becoming a public park.[^14] Today, PHCP is dominated by non-native birds that are omnivorous generalists such as the <span eid="Q74017">Javan Myna </span>(*Acridotheres javanicus*) and <span eid="Q25968">Eurasian Tree Sparrow</span> (*Passer montanus*). The park also features a Bodhi tree that has been designated as a [heritage tree](https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees), meaning *Platyscapa quadraticeps* also inhabits the park.[^15] 
