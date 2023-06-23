@@ -29,7 +29,7 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span ei
    label="Not in copyright, from the Biodiversity Heritage Library"
    seq="78">
 
-## Situating Platyscapa quadraticeps in Singapore’s Dense Cityscape 
+## Situating *Platyscapa quadraticeps* in Singapore’s Dense Cityscape 
 *Platyscapa quadraticeps* exhibits wide dispersal patterns, and the population in Singapore is likely part of a continuous regional population spanning temperate and tropical Asia.[^10] *Platyscapa quadraticeps* follows the spontaneous distribution of *F. religiosa* in Singapore across both primary and secondary forests like Bukit Timah Nature Reserve, as well as in the city’s urban green spaces – from the Japanese Garden in Jurong East to Duxton Plain Park in the CBD to Tanah Merah MRT station.[^11]
 <param ve-map center="Q334" zoom="11.5"
        show-labels>
@@ -101,11 +101,12 @@ Increasing ambient air temperatures in UGS are a threat to fig wasp fitness in S
 
 ## Ozone Pollution
 In addition to temperature, ozone pollution is a rising threat to fig wasps in Singapore. Ozone is a key component of ‘smog’, and in recent years, certain episodes of harmful air quality in Singapore have been attributed to ozone-induced smog, not haze, contrary to common assumptions.[^25] In a study of a fig wasp in the *Platyscapa* genus in the sub-tropical French Mediterranean, ozone induced abnormal <span eid="Q33596">motility</span> at even low concentrations, impacting pollinator behaviour and success.[^26] There are suggestions that ozone episodes in the French Mediterranean may already be affecting fig wasp and fig tree mutualism, as fig wasp females search for receptive figs at midday which coincides with maximum ozone concentrations, hindering wasp motility and reproductive success.[^27] Worsening ozone pollution in Singapore is thus likely to implicate *P. quadraticeps*’ motility. 
+
 <param ve-image 
        url="media/ozone.jpg"
        title="Probability of fig wasp motility (spontaneous or independent movement) over time at different ozone concentrations" 
        description="Crosses indicate points of censored data. Different letters indicate significant differences (p < 0.05) in the probability of motility between ozone regimes based on pairwise log-rank tests"
-       attribution="Maryse Vanderplanck et al., ‘Ozone Induces Distress Behaviors in Fig Wasps with a Reduced Chance of Recovery’, Insects 12, no. 11 (5 November 2021): 995, https://doi.org/10.3390/insects12110995"
+       attribution="Maryse Vanderplanck et al., "
        license="CC BY-4.0">
        
 ## Habitat Fragmentation
