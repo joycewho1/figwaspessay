@@ -105,7 +105,8 @@ In addition to temperature, ozone pollution is a rising threat to fig wasps in S
        url="https://raw.githubusercontent.com/joycewho1/figwaspessay/main/media/ozone.jpg" 
        label="Probability of fig wasp motility (spontaneous or independent movement) over time at different ozone concentrations" 
        attribution="Maryse Vanderplanck et al.,‘Ozone Induces Distress Behaviors in Fig Wasps with a Reduced Chance of Recovery’, Insects 12, no. 11 (5 November 2021): 995" 
-       license="CC BY-4.0">
+       license="CC BY-4.0"
+       description="Crosses indicate points of censored data. Different letters indicate significant differences (p < 0.05) in the probability of motility between ozone regimes based on pairwise log-rank tests">
        
 ## Habitat Fragmentation
 Beyond climatic changes, habitat fragmentation is also a concern to fig wasps in Singapore. Fragmentation will continue as Singapore develops, and projects like the upcoming Cross Island MRT line passing through the Central Catchment Nature Reserve may have uncertain ecological effects.[^28] Studies reveal that highly fragmented forests have a lower proportion of pollinator wasps compared to non-pollinator wasps, wherein the latter may become pests to the fig tree.[^29] Further, fragmentation contextualised in Singapore’s urban cityscape increases the risk of road mortality, which has been implicated in pollinating insects’ deaths worldwide.[^30] Fig wasps can be responsible for dispersing pollen up to 160km from the source tree, and flying over increasingly fragmented and busy urban traffic exacerbates the difficulty and danger of pollination journeys.[^31]
