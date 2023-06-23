@@ -67,25 +67,25 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span ei
 
 Urban green spaces (UGS) in Singapore cover over 47% of the city, reflecting its “city in nature” (originally “garden city” and then “city in a garden”) moniker.[^12] UGS are integrated into Singapore’s hot and air, light, and noise-polluted landscape, and are affected by continuous urban development.[^13] Pearl’s Hill City Park’s (PHCP) ecosystem exemplifies that of a typical UGS in Singapore. Located near Outram Park and Chinatown, PHCP was the site of a gambier plantation and hospital in the 1800s before becoming a public park.[^14] Today, PHCP is dominated by non-native birds that are omnivorous generalists such as the <span eid="Q74017">Javan Myna </span>(*Acridotheres javanicus*) and <span eid="Q25968">Eurasian Tree Sparrow</span> (*Passer montanus*). The park also features a Bodhi tree that has been designated as a [heritage tree](https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees), meaning *Platyscapa quadraticeps* also inhabits the park.[^15] 
 <param ve-image 
-       url="media/photo_2023-06-17_10-21-33.jpg"
+       url="https://raw.githubusercontent.com/joycewho1/figwaspessay/main/media/photo_2023-06-17_10-21-33.jpg"
        title="Pearl's Hill City Park, Singapore" 
        description="Example of an urban green space that Platyscapa quadraticeps inhabits in Singapore, within and overlooking the CBD area" 
        attribution="Joyce Hu">
 
 The diversity of species inhabiting the park reflects how the Singaporean public perceives and uses UGS. UGS provide cultural ecosystem services by facilitating recreation (e.g., birdwatching, hiking) and providing a respite from city life.[^16] Indeed, the presence of the heritage Bodhi tree provides a meditative space that the public can enjoy.[^17] However, while the Bodhi tree in the park may be valued, the fig wasps silently serving this cultural good are often undervalued and are likely viewed as a nuisance based on prevailing negative sentiments surrounding wasps. Any lack in addressing threats to the fig wasp’s survivability, however, will also impact the fig tree’s future.
 <param ve-image 
-       url="media/HT 2001-18 Ficus religiosa 1.jpg"
+       url="https://raw.githubusercontent.com/joycewho1/figwaspessay/main/media/HT%202001-18%20Ficus%20religiosa%201.jpg"
        title="Heritage Bodhi Tree in Pearl's Hill City Park" 
        attribution="NParks, used with permission">
 <param ve-image 
-       url="media/HT 2001-18 Ficus religiosa 2.jpg"
+       url="https://raw.githubusercontent.com/joycewho1/figwaspessay/main/media/HT%202001-18%20Ficus%20religiosa%202.jpg"
        title="Heritage Bodhi Tree in Pearl's Hill City Park" 
        attribution="NParks, used with permission">
 
 ## From Flight to Plight: Future Challenges to *Platyscapa quadraticeps*
 As the climate crisis worsens alongside continual urban development and other escalating anthropogenic environmental pressures, the quality of Singapore’s UGS is at risk. This poses challenges to *P. quadraticeps*, with cascading effects including the potential for a breakdown of the mutualistic relationship between the wasp and tree, which may have drastic effects for UGS that rely on *F. religiosa* as a <span eid="Q518808">keystone species</span>.[^18] 
 <param ve-image 
-       url="media/Fig.png"
+       url="https://raw.githubusercontent.com/joycewho1/figwaspessay/main/media/Fig.png"
        title="Associated Fauna of the Sacred Fig Tree in Singapore" 
        attribution="Joyce Hu, information via NParks">
 
