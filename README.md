@@ -90,7 +90,7 @@ As the climate crisis worsens alongside continual urban development and other es
        attribution="Joyce Hu, information via NParks">
 
 ## Increasing Temperatures
-Increasing ambient air temperatures in UGS are a threat to fig wasp fitness in Singapore. Singapore’s dense cityscape activates the urban heat island effect, wherein features of the city—including impervious dark surfaces that absorb heat and trapped waste heat that seeps through from vehicles, buildings, and appliances—lead to higher temperatures of up to a 7̊C difference compared to the island’s less built-up areas.[^19] While UGS alleviate the urban heat island effect, they are simultaneously exposed to these heightened temperatures.[^20] Moreover, temperatures in Singapore are projected to increase by 1.4̊C to 4.6̊C by the end of the century, with the brunt to be felt in urban areas.[^21] A recent study found that multiple fig wasp species[^22] suffered average reduced life spans of two to ten hours when temperatures rose to 36̊C, compared to the average adult lifespan of 1-2 days.[^23] This corroborates earlier Singaporean findings that an increase of over 3̊C would significantly decrease the adult lifespan of all studied fig wasp species.[^24]
+Increasing ambient air temperatures in UGS are a threat to fig wasp fitness in Singapore. Singapore’s dense cityscape activates the urban heat island effect, wherein features of the city—including impervious dark surfaces that absorb heat and trapped waste heat that seeps through from vehicles, buildings, and appliances—lead to higher temperatures of up to a 7°C difference compared to the island’s less built-up areas.[^19] While UGS alleviate the urban heat island effect, they are simultaneously exposed to these heightened temperatures.[^20] Moreover, temperatures in Singapore are projected to increase by 1.4°C to 4.6°C by the end of the century, with the brunt to be felt in urban areas.[^21] A recent study found that multiple fig wasp species[^22] suffered average reduced life spans of two to ten hours when temperatures rose to 36°C, compared to the average adult lifespan of 1-2 days.[^23] This corroborates earlier Singaporean findings that an increase of over 3°C would significantly decrease the adult lifespan of all studied fig wasp species.[^24]
 <param ve-image 
        url="https://pub.mdpi-res.com/climate/climate-08-00082/article_deploy/html/images/climate-08-00082-g005.png?1596123691"
        title="Spatial distribution of UHI intensities in Singapore" 
@@ -106,7 +106,7 @@ In addition to temperature, ozone pollution is a rising threat to fig wasps in S
        url="media/ozone.jpg"
        title="Probability of fig wasp motility (spontaneous or independent movement) over time at different ozone concentrations" 
        description="Crosses indicate points of censored data. Different letters indicate significant differences (p < 0.05) in the probability of motility between ozone regimes based on pairwise log-rank tests"
-       attribution="Maryse Vanderplanck et al., "
+       attribution="Maryse Vanderplanck et al.,‘Ozone Induces Distress Behaviors in Fig Wasps with a Reduced Chance of Recovery’, Insects 12, no. 11 (5 November 2021):995, https://doi.org/10.3390/insects12110995"
        license="CC BY-4.0">
        
 ## Habitat Fragmentation
@@ -126,12 +126,12 @@ Reduced reproductive success may contribute to a breakdown in the mutualistic re
        url="https://upload.wikimedia.org/wikipedia/commons/9/92/0A2A4256_Jambu_Fruit-Dove.jpg"
        title="Jambu Fruit Dove" 
        attribution="JJ Harrison"
-       license="CC BY-SA 3.0 ">
+       license="CC BY-SA 3.0">
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/2/22/Yellow-vented_Bulbul_%28Pycnonotus_goiavier%29_-_Flickr_-_Lip_Kee_%287%29.jpg"
        title="Yellow-vented Bulbul" 
        attribution="Lip Kee from Singapore, Republic of Singapore"
-       license="CC BY-SA 2.0 ">
+       license="CC BY-SA 2.0">
 
 ## The Future of Fig Wasps in Singapore
 Therefore, while the existence of Singapore’s UGS is not under threat, and there are plans to continue developing UGS, the quality of these spaces faces inevitable challenges amidst anthropogenic climate change and continual urban development, both of which can only be mitigated within broader policies.[^40] To combat urban fragmentation’s specific impact on fig wasps, alongside temperature and air pollution that may decrease the wasp’s ability to travel long distances, it may be helpful to consider intentional planting of F. religiosa in urban spaces that are not parks (e.g., on the roadside) which may expand the accessibility of trees to fig wasps that prevents the need to travel long distances exposed to increasingly harsh urban conditions.[^41] Plans to expand eco-links may also alleviate the effects of fragmentation and road mortality by connecting isolated UGS to each other and other habitats.[^42] However, these bridges are a mitigation strategy with indeterminate success rates for different species on different time scales, with uncertain benefits to *P. quadraticeps*.[^43] 
