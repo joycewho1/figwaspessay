@@ -33,7 +33,7 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span ei
 *Platyscapa quadraticeps* exhibits wide dispersal patterns, and the population in Singapore is likely part of a continuous regional population spanning temperate and tropical Asia.[^10] *Platyscapa quadraticeps* follows the spontaneous distribution of *F. religiosa* in Singapore across both primary and secondary forests like Bukit Timah Nature Reserve, as well as in the city’s urban green spaces – from the Japanese Garden in Jurong East to Duxton Plain Park in the CBD to Tanah Merah MRT station.[^11]
 <param ve-map center="Q334" zoom="11.5"
        show-labels>
-<param ve-map-layer geojson url="/media/map (3).geojson" title="*Ficus religiosa* sightings from iNaturalist where *Platyscapa quadraticeps* are found with Heritage Trees circled "> 
+<param ve-map-layer geojson url="/media/map (3).geojson" title="*Ficus religiosa* sightings from iNaturalist where *Platyscapa quadraticeps* are found with Heritage Trees circled"> 
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bodhi_Tree_in_Israel_1a.jpg"
        circle="true"
@@ -101,12 +101,6 @@ Increasing ambient air temperatures in UGS are a threat to fig wasp fitness in S
 
 ## Ozone Pollution
 In addition to temperature, ozone pollution is a rising threat to fig wasps in Singapore. Ozone is a key component of ‘smog’, and in recent years, certain episodes of harmful air quality in Singapore have been attributed to ozone-induced smog, not haze, contrary to common assumptions.[^25] In a study of a fig wasp in the *Platyscapa* genus in the sub-tropical French Mediterranean, ozone induced abnormal <span eid="Q33596">motility</span> at even low concentrations, impacting pollinator behaviour and success.[^26] There are suggestions that ozone episodes in the French Mediterranean may already be affecting fig wasp and fig tree mutualism, as fig wasp females search for receptive figs at midday which coincides with maximum ozone concentrations, hindering wasp motility and reproductive success.[^27] Worsening ozone pollution in Singapore is thus likely to implicate *P. quadraticeps*’ motility.
-<param ve-image 
-       url="https://raw.githubusercontent.com/joycewho1/figwaspessay/main/media/ozone.jpg"
-       title="Probability of fig wasp motility (spontaneous or independent movement) over time at different ozone concentrations" 
-       description="Crosses indicate points of censored data. Different letters indicate significant differences (p < 0.05) in the probability of motility between ozone regimes based on pairwise log-rank tests"
-       attribution="Maryse Vanderplanck et al.,‘Ozone Induces Distress Behaviors in Fig Wasps with a Reduced Chance of Recovery’, Insects 12, no. 11 (5 November 2021):995, https://doi.org/10.3390/insects12110995"
-       license="CC BY-4.0">
        
 ## Habitat Fragmentation
 Beyond climatic changes, habitat fragmentation is also a concern to fig wasps in Singapore. Fragmentation will continue as Singapore develops, and projects like the upcoming Cross Island MRT line passing through the Central Catchment Nature Reserve may have uncertain ecological effects.[^28] Studies reveal that highly fragmented forests have a lower proportion of pollinator wasps compared to non-pollinator wasps, wherein the latter may become pests to the fig tree.[^29] Further, fragmentation contextualised in Singapore’s urban cityscape increases the risk of road mortality, which has been implicated in pollinating insects’ deaths worldwide.[^30] Fig wasps can be responsible for dispersing pollen up to 160km from the source tree, and flying over increasingly fragmented and busy urban traffic exacerbates the difficulty and danger of pollination journeys.[^31]
