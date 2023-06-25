@@ -87,7 +87,8 @@ As the climate crisis worsens alongside continual urban development and other es
 <param ve-image 
        url="https://raw.githubusercontent.com/joycewho1/figwaspessay/main/media/Fig.png"
        title="Associated Fauna of the Sacred Fig Tree in Singapore" 
-       attribution="Joyce Hu, information via NParks">
+       attribution="Joyce Hu, information via NParks"
+       fit="contain">
 
 ## Increasing Temperatures
 Increasing ambient air temperatures in UGS are a threat to fig wasp fitness in Singapore. Singapore’s dense cityscape activates the urban heat island effect, wherein features of the city—including impervious dark surfaces that absorb heat and trapped waste heat that seeps through from vehicles, buildings, and appliances—lead to higher temperatures of up to a 7°C difference compared to the island’s less built-up areas.[^19] While UGS alleviate the urban heat island effect, they are simultaneously exposed to these heightened temperatures.[^20] Moreover, temperatures in Singapore are projected to increase by 1.4°C to 4.6°C by the end of the century, with the brunt to be felt in urban areas.[^21] A recent study found that multiple fig wasp species[^22] suffered average reduced life spans of two to ten hours when temperatures rose to 36°C, compared to the average adult lifespan of 1-2 days.[^23] This corroborates earlier Singaporean findings that an increase of over 3°C would significantly decrease the adult lifespan of all studied fig wasp species.[^24]
@@ -106,7 +107,8 @@ In addition to temperature, ozone pollution is a rising threat to fig wasps in S
        label="Probability of fig wasp motility (spontaneous or independent movement) over time at different ozone concentrations" 
        attribution="Maryse Vanderplanck et al.,‘Ozone Induces Distress Behaviors in Fig Wasps with a Reduced Chance of Recovery’, Insects 12, no. 11 (5 November 2021): 995" 
        license="CC BY-4.0"
-       description="Crosses indicate points of censored data. Different letters indicate significant differences in the probability of motility between ozone regimes based on pairwise log-rank tests">
+       description="Crosses indicate points of censored data. Different letters indicate significant differences in the probability of motility between ozone regimes based on pairwise log-rank tests"
+       fit="contain">
        
 ## Habitat Fragmentation
 Beyond climatic changes, habitat fragmentation is also a concern to fig wasps in Singapore. Fragmentation will continue as Singapore develops, and projects like the upcoming Cross Island MRT line passing through the Central Catchment Nature Reserve may have uncertain ecological effects.[^28] Studies reveal that highly fragmented forests have a lower proportion of pollinator wasps compared to non-pollinator wasps, wherein the latter may become pests to the fig tree.[^29] Further, fragmentation contextualised in Singapore’s urban cityscape increases the risk of road mortality, which has been implicated in pollinating insects’ deaths worldwide.[^30] Fig wasps can be responsible for dispersing pollen up to 160km from the source tree, and flying over increasingly fragmented and busy urban traffic exacerbates the difficulty and danger of pollination journeys.[^31]
